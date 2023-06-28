@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vasyl!
 _________________________________________________________
-### I`m a Frontend developer 🧑🏻‍💻 
+### I`m a FrontEnd Developer 🧑🏻‍💻 
 ### I'm already looking for a job and a team where I'd like to use my knowledge of HTML5, CSS3, JavaScript, React.
 _________________________________________________________
 
