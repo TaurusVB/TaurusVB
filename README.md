@@ -8,7 +8,7 @@ _________________________________________________________
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Fullstack technologies at Go IT.
-- 💼 &nbsp; Working on projects using HYML, CSS, Javescript, React, Redux, React Native.
+- 💼 &nbsp; Working on projects using HTML, CSS, Javescript, React, Redux, React Native, NodeJS.
 _________________________________________________________
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
