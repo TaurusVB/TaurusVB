@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Vasyl!
 _________________________________________________________
-### I`m a FrontEnd Developer 🧑🏻‍💻 
-### I'm already looking for a job and a team where I'd like to use my knowledge of HTML5, CSS3, JavaScript, React.
+### I`m a Full-stack Developer 🧑🏻‍💻 
+### I'm already looking for a job and a team where I'd like to use my knowledge of HTML5, CSS3, JavaScript, React, NodeJS, NextJS, TypeScript.
 _________________________________________________________
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Fullstack technologies at Go IT.
-- 💼 &nbsp; Working on projects using HTML, CSS, Javescript, React, Redux, React Native, NodeJS.
+- 🎓 &nbsp; I'm learning full-stack technologies on resources wherever it's possible.
+- 💼 &nbsp; Working on projects using HTML, CSS, Javescript, React, Redux, React Native, NodeJS, NextJS, TypeScript.
 _________________________________________________________
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
