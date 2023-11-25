@@ -1,8 +1,5 @@
-### Hi there 👋, my name is Vasyl!
-_________________________________________________________
-### I`m a Full-stack Developer 🧑🏻‍💻 
-### I'm already looking for a job and a team where I'd like to use my knowledge of HTML5, CSS3, JavaScript, React, NodeJS, NextJS, TypeScript.
-_________________________________________________________
+### Hi there 👋, my name is Vasyl! I`m a Full-stack Developer 🧑🏻‍💻 
+----------
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
